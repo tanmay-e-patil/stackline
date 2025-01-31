@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@theme {
+  --font-secondary: "Montserrat", "serif";
+  --font-primary: "Levenim", "serif";
+  --color-nav-blue: oklch(28.79% 0.0914 257.98);
+}
